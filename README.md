@@ -1,8 +1,8 @@
-# randomword
-Random Words Generator / Passpharse / Brute Force
+# Randomword
+Random Words Generator / Passpharse / Brute Force / Passwords
 
 Generate unlimited words without repeat
-custom words length, words number
+custom words length, words number, words atribute
 ![Screenshot (14)](https://user-images.githubusercontent.com/22046831/218760262-a15ccbc0-9217-4753-9e41-b6533f4b9cad.png)
 <h4>Generate more than 4000 words/s, (If you have 8 core cpu and 16gb of Ram can generate up to 11.000 words/s) loop option aviable, auto merger file</h4>
 
